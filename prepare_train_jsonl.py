@@ -40,7 +40,7 @@ def main():
     # Define paths
     images_folder = "/mnt/data1/nick/depth/fill50k/images"
     conditioning_images_folder = "/mnt/data1/nick/depth/fill50k/conditioning_images"
-    captions_file = "/mnt/data1/nick/depth/fill50k/bnb-dataset/get_captions/captions_6.json"
+    captions_file = "/mnt/data1/nick/depth/fill50k/bnb-dataset/get_captions/captions.json"
     output_file = "/mnt/data1/nick/depth/fill50k/train.jsonl"
     # Process captions file
     process_captions_file(captions_file, images_folder, conditioning_images_folder, output_file)
