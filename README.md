@@ -1,9 +1,20 @@
 # generative-interior-design
 
 ## Preparing the dataset
-run get_captions.py for getting captions for the images using <b>llava-1.5</b>
+run *get_captions.py* to retrieve captions for the images using <b>llava-1.5</b>  
+run *prepare_train_jsonl.py* to generate train.jsonl for subsequent training
 
-run prepare_train_jsonl.py for getting train.jsonl for further training
+<b>Folder Structure:</b>  
+fill50k/  
+├── images/  
+├── conditioning_images/  
+├── diffusers/  
+├── fill50k.py  
+├── image_0.jpg  
+├── image_1.jpg  
+├── train.jsonl  
+├── train_controlnet.py (copy from diffusers)  
+└── train_text_to_image_lora.py (copy from diffusers)
 
 ## Training
 <b>ControlNet</b>
