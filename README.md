@@ -1,4 +1,6 @@
-# generative-interior-design
+# StableDesign for generative interior design
+<a href='https://huggingface.co/spaces/MykolaL/StableDesign'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>  
+[Mykola Lavreniuk](https://www.linkedin.com/in/mykola-lavreniuk/), [Bartosz Ludwiczuk](https://www.linkedin.com/in/bartosz-ludwiczuk-a677a760)
 
 ## Preparing the dataset
 run *get_captions.py* to retrieve captions for the images using <b>llava-1.5</b>  
