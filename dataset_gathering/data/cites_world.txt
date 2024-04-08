@@ -1,0 +1,117 @@
+Tokyo, Japan
+Delhi, India
+Shanghai, China
+São Paulo, Brazil
+Mexico City, Mexico
+Cairo, Egypt
+Mumbai, India
+Beijing, China
+Dhaka, Bangladesh
+Osaka, Japan
+New York, New York
+Karachi, Pakistan
+Buenos Aires, Argentina
+Chongqing, China
+Istanbul, Turkey
+Kolkata, India
+Manila, Philippines
+Lagos, Nigeria
+Rio de Janeiro,  Brazil
+Tianjin, China
+Kinshasa, DR Congo
+Guangzhou, China
+Los Angeles, United States
+Moscow, Russia
+Shenzhen, China
+Lahore, Pakistan
+Bangalore, India
+Paris, France
+Bogotá, Colombia
+Jakarta, Indonesia
+Chennai, India
+Lima, Peru
+Bangkok, Thailand
+Seoul, South Korea
+Nagoya, Japan
+Hyderabad, India
+London, United Kingdom
+Tehran, Iran
+Chicago, United States
+Chengdu, China
+Nanjing, China
+Wuhan, China
+Ho Chi Minh City, Vietnam
+Luanda, Angola
+Ahmedabad, India
+Kuala Lumpur, Malaysia
+Xi'an, China
+Hong, Kong   China
+Dongguan, China
+Hangzhou, China
+Foshan, China
+Shenyang, China
+Riyadh, Saudi Arabia
+Baghdad, Iraq
+Santiago, Chile
+Surat, India
+Madrid, Spain
+Suzhou, China
+Pune, India
+Harbin, China
+Houston, United States
+Dallas, United States
+Toronto, Canada
+Dar es Salaam, Tanzania
+Miami, United States
+Belo, Horizonte  Brazil
+Singapore, Singapore
+Philadelphia, United States
+Atlanta, United States
+Fukuoka, Japan
+Khartoum, Sudan
+Barcelona, Spain
+Johannesburg, South Africa
+Saint Petersburg, Russia
+Qingdao, China
+Dalian, China
+Washington, United States
+Yangon, Myanmar
+Alexandria, Egypt
+Jinan, China
+Guadalajara, Mexico
+New York, New York
+Washington, Georgia
+Los Angeles, California
+Chicago, Illinois
+Houston, Texas
+Phoenix, Arizona
+Philadelphia, Pennsylvania
+San Antonio, Texas
+San Diego, California
+Dallas, Texas
+Austin, Texas
+San Jose, California
+Fort Worth, Texas
+Columbus, Ohio
+Charlotte, North Carolina
+Indianapolis, Indiana
+San Francisco, California
+Seattle, Washington
+Denver, Colorado
+Oklahoma City, Oklahoma
+Berlin, Germany
+Warsaw, Poland
+Rome, Italy
+Milan, Italy
+Madrid, Spain
+Barcelona, Spain
+Vienna, Austria
+Zurich, Switzerland
+Moscow, Russia
+Prague, Czech Republic
+Munich, Germany
+Budapest, Hungary
+Hamburg, Germany
+Lima, Brazil
+Dubai, United Arab Emirates
+Abu Dhabi, United Arab Emirates
