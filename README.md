@@ -43,7 +43,7 @@ For each inout image 3 images would be saved:
 
 
 ## Preparing the dataset
-run *get_captions.py* to retrieve captions for the images using <b>llava-1.5</b>. Use original images, with furniture.
+run *get_captions.py* to retrieve captions for the images using <b>llava-1.5</b>. Use original images, with furniture.  
 run *prepare_train_jsonl.py* to generate train.jsonl for subsequent training
 
 <b>Folder Structure:</b>  
