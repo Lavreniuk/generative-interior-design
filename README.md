@@ -2,6 +2,10 @@
 <a href='https://huggingface.co/spaces/MykolaL/StableDesign'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>  
 [Mykola Lavreniuk](https://www.linkedin.com/in/mykola-lavreniuk/), [Bartosz Ludwiczuk](https://www.linkedin.com/in/bartosz-ludwiczuk-a677a760)
 
+## 🏆 **2nd Place Solution** in the Generative Interior Design 2024 Competition!
+
+Proud to announce our **2nd place** achievement! For a detailed review of our competition journey, check out our article on [Medium](https://medium.com/@melgor89/generative-interior-design-challenge-2024-2nd-place-solution-6338f19f6fe3).
+
 ## Dataset creation
 
 These script are extended version of code from [bnb-dataset](https://github.com/airbert-vln/bnb-dataset/tree/main)
